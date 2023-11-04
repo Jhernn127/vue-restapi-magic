@@ -36,3 +36,6 @@ onUnmounted(() => {
     </div>
   </main>
 </template>
+
+/* REVIEW ENTIRE LAB - NO CHANGES MADE* - COMMENT UTILIZED TO GENERATE AND
+SUBMIT COMMIT/
